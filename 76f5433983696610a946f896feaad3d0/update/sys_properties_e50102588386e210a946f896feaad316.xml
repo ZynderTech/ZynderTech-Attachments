@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_properties">
+    <sys_properties action="INSERT_OR_UPDATE">
+        <choices/>
+        <description>Repository ID of Git Connected with Zynder Attachments</description>
+        <ignore_cache>true</ignore_cache>
+        <is_private>false</is_private>
+        <name>REST.git.push.RepoIDZynderAttachments</name>
+        <read_roles/>
+        <suffix/>
+        <sys_class_name>sys_properties</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-06-06 10:58:32</sys_created_on>
+        <sys_id>e50102588386e210a946f896feaad316</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>REST.git.push.RepoIDZynderAttachments</sys_name>
+        <sys_package display_value="Zynder Attachments" source="76f5433983696610a946f896feaad3d0">76f5433983696610a946f896feaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Attachments">76f5433983696610a946f896feaad3d0</sys_scope>
+        <sys_update_name>sys_properties_e50102588386e210a946f896feaad316</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-06-06 10:58:32</sys_updated_on>
+        <type>string</type>
+        <value/>
+        <write_roles/>
+    </sys_properties>
+    <sys_translated_text action="delete_multiple" query="documentkey=e50102588386e210a946f896feaad316"/>
+</record_update>

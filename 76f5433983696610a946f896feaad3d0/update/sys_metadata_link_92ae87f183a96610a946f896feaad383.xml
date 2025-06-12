@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_metadata_link">
+    <sys_metadata_link action="INSERT_OR_UPDATE">
+        <directory>update</directory>
+        <documentkey>318fa12b83112250a946f896feaad3a0</documentkey>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_attachment">
+    <sys_attachment action="INSERT_OR_UPDATE">
+        <average_image_color>#e2e3e0</average_image_color>
+        <chunk_size_bytes>700000</chunk_size_bytes>
+        <compressed>true</compressed>
+        <content_type>image/jpeg</content_type>
+        <file_name>image</file_name>
+        <hash>c51005efbb12d9d70ddbe940c74e1650102abdaddc0d91abf42a5f18967b704b</hash>
+        <image_height>2245</image_height>
+        <image_width>1587</image_width>
+        <size_bytes>206435</size_bytes>
+        <size_compressed>155949</size_compressed>
+        <state>available</state>
+        <sys_created_by>Rose.Denna</sys_created_by>
+        <sys_created_on>2025-05-10 05:14:28</sys_created_on>
+        <sys_id>318fa12b83112250a946f896feaad3a0</sys_id>
+        <sys_mod_count>5</sys_mod_count>
+        <sys_updated_by>Rose.Denna</sys_updated_by>
+        <sys_updated_on>2025-05-10 05:14:29</sys_updated_on>
+        <table_name>ZZ_YYdb_image</table_name>
+        <table_sys_id>b84fa12b83112250a946f896feaad39b</table_sys_id>
+    </sys_attachment>
+</record_update>
+]]></payload>
+        <sys_class_name>sys_metadata_link</sys_class_name>
+        <sys_created_by>Sreerag.Anchery</sys_created_by>
+        <sys_created_on>2025-05-17 11:56:28</sys_created_on>
+        <sys_id>92ae87f183a96610a946f896feaad383</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>image</sys_name>
+        <sys_package display_value="Zynder Attachments" source="76f5433983696610a946f896feaad3d0">76f5433983696610a946f896feaad3d0</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Zynder Attachments">76f5433983696610a946f896feaad3d0</sys_scope>
+        <sys_update_name>sys_metadata_link_92ae87f183a96610a946f896feaad383</sys_update_name>
+        <sys_updated_by>Sreerag.Anchery</sys_updated_by>
+        <sys_updated_on>2025-05-17 11:56:28</sys_updated_on>
+        <tablename>sys_attachment</tablename>
+    </sys_metadata_link>
+</record_update>
